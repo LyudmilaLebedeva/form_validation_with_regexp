@@ -10,7 +10,7 @@
 - Regular Expressions
 
 ## Открыть на GitHub Pages: 
-lyudmilalebedeva.github.io/form_validation_with_regexp/
+https://lyudmilalebedeva.github.io/form_validation_with_regexp/
 
 ## Как запустить локально
 - скачать папку с проектом
